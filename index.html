@@ -115,7 +115,7 @@
         <span class="eyebrow" style="background:var(--color-teal-100);color:var(--color-teal-600);">😊 너무 즐거워서 매일 오고 싶은 곳</span>
         <span class="eyebrow" style="background:var(--color-pink-100);color:var(--color-pink-400);">💛 믿고 맡길 수 있는 영어교육기관</span>
       </div>
-      <div class="btn-row">
+      <div class="btn-row hero-cta">
         <a class="btn btn-primary" href="http://pf.kakao.com/_xaHkTn" target="_blank" rel="noopener">카카오톡으로 상담하기</a>
         <a class="btn btn-secondary" href="contact.html">오시는길 보기</a>
       </div>
@@ -137,6 +137,7 @@
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">링키의 교육철학, Funducation</span>
+      <img class="why-fun" src="images/why-fun.jpg" alt="링키영어에서 왜? 아이들이 영어를 재미있어 할까?" loading="lazy">
       <h2>세 가지 원칙으로 아이를 지도합니다</h2>
       <p>Fun + Education = Funducation. 재미와 교육이 만나 아이가 스스로 다시 일어서는 힘을 키웁니다.</p>
     </div>
@@ -188,20 +189,19 @@
 
 <section>
   <div class="wrap director-block">
-    <div class="slideshow class-slideshow">
+    <div class="slideshow class-slideshow" data-interval="2000">
       <img src="images/class-01.jpg" alt="전자칠판으로 어휘를 익히는 수업" class="active">
       <img src="images/class-02.jpg" alt="전자칠판으로 워크시트를 푸는 수업">
-      <img src="images/class-03.jpg" alt="O·X 퀴즈 활동">
-      <img src="images/class-04.jpg" alt="영어 원서 읽기">
       <img src="images/class-05.jpg" alt="Earth Day 영자신문 읽기">
       <img src="images/class-06.jpg" alt="WINNER 시상">
-      <img src="images/class-07.jpg" alt="NELT 전국 영어학력 경진대회 수상">
       <img src="images/class-08.jpg" alt="문장 만들기 활동">
-      <img src="images/class-09.jpg" alt="파닉스 카드 활동">
-      <img src="images/class-10.jpg" alt="무지개 만들기 활동">
-      <img src="images/class-11.jpg" alt="태양계 만들기 활동">
       <img src="images/class-12.jpg" alt="즐거운 수업 시간">
       <img src="images/class-13.jpg" alt="화분 케이크 파티">
+      <img src="images/class-14.jpg" alt="TEENZ 수료증을 받은 아이들">
+      <img src="images/class-15.jpg" alt="자석 알파벳으로 문장 만들기">
+      <img src="images/class-16.jpg" alt="스토리 말풍선 붙이기 활동">
+      <img src="images/class-17.jpg" alt="링키 마켓 보상 데이">
+      <img src="images/class-18.jpg" alt="날씨 표현 워크시트 활동">
     </div>
     <div>
       <span class="eyebrow">원장님 한마디</span>
@@ -291,7 +291,7 @@
       imgs[i].classList.remove('active');
       i=(i+1)%imgs.length;
       imgs[i].classList.add('active');
-    },3500);
+    },+box.dataset.interval||3500);
   });
 })();
 </script>
