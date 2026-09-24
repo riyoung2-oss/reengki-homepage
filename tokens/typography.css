@@ -1,0 +1,31 @@
+:root {
+  /* ── Font families ───────────────────────────────────────────── */
+  --font-primary:  'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+
+  /* ── Font weights ───────────────────────────────────────────── */
+  --font-weight-black:    900;
+  --font-weight-bold:     700;
+  --font-weight-regular:  400;
+
+  /* ── Type scale ─────────────────────────────────────────────── */
+  --font-size-display:     32px;  /* Korean display headings, hero titles */
+  --font-size-display-sm:  28px;  /* Slightly smaller display              */
+  --font-size-heading-lg:  24px;  /* Section headings                      */
+  --font-size-heading-md:  20px;  /* Sub-section headings                  */
+  --font-size-heading-sm:  18px;  /* Card headings                         */
+  --font-size-subheading:  16px;  /* Labels, subheadings                   */
+  --font-size-body:        14px;  /* Body text (default)                   */
+  --font-size-caption:     12px;  /* Captions, meta info                   */
+  --font-size-tiny:        11px;  /* Tags, badges, micro labels            */
+
+  /* ── Line heights ───────────────────────────────────────────── */
+  --line-height-tight:    1.25;
+  --line-height-snug:     1.4;
+  --line-height-normal:   1.5;
+  --line-height-relaxed:  1.7;   /* Body text — matches brand guideline    */
+
+  /* ── Letter spacing ─────────────────────────────────────────── */
+  --letter-spacing-tight:   -0.02em;
+  --letter-spacing-normal:   0em;
+  --letter-spacing-wide:     0.05em;
+}

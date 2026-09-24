@@ -1,0 +1,13 @@
+/*
+ * Fonts — Noto Sans KR via Google Fonts CDN
+ *
+ * SUBSTITUTION NOTE: No locally-hosted font files were provided.
+ * Replace this @import with local @font-face rules pointing to
+ * .woff2 files when assets are available, for full offline support.
+ *
+ * Weights in use:
+ *   400 — Regular (body text)
+ *   700 — Bold (subheadings, labels, buttons)
+ *   900 — Black (display headings)
+ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');

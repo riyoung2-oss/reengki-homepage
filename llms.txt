@@ -1,0 +1,46 @@
+# 링키영어 인계매탄학원 (Reengki English Ingye-Maetan Academy)
+
+> 경기도 수원시 영통구 매탄동에 위치한 유아·초등 전문 영어학원. 20년 경력 원장이 직접 지도하며, 링키영어 커리큘럼(Stage1~2, Juice, Jelly, TEENZ Phonics, TEENZ 1, TEENZ 2.0)을 운영한다. 성적보다 먼저 영어에 대한 첫 감정과 긍정적인 태도, 학습 회복력을 키우는 것을 교육철학의 중심에 둔다.
+
+## 기본 정보
+- 학원명: 링키영어 인계매탄학원 (Reengki English Ingye-Maetan Academy)
+- 주소: 경기도 수원시 영통구 권광로260번길 36, 매탄힐스테이트 제1상가 302호
+- 전화: 010-4838-0124
+- 운영시간: 평일 오후 1:30 ~ 6:30
+- 대상 지역: 인계동, 매탄동, 영통구, 팔달구, 수원시
+- 대상 연령: 유아(6~7세) ~ 초등 전 학년
+
+## 교육 철학 (Funducation)
+- Re-marking System: 틀린 부분을 스스로 다시 확인하고 고치며 학습 회복력을 기르는 방식
+- Immersion (5단계 몰입): Story-Expression-Drill-Act it Out-Acquisition으로 이어지는 몰입식 학습 구조
+- Accumulation: 실력(Capability)과 학습량(Capacity)을 함께 쌓아가는 누적형 학습
+
+## 커리큘럼 (순서대로)
+- Stage 1: 6~7세 유아 대상 시작 단계
+- Stage 2: 유아~초등 저학년 기초 다지기
+- Juice: 초등 저학년 몰입 확장
+- Jelly: 초등 중학년 심화
+- TEENZ Phonics: 초등 중학년 파닉스·리딩 강화
+- TEENZ 1: 초등 고학년, Linker's Book 시리즈 기반 ESL 심화 프로그램
+- TEENZ 2.0: 리딩 난이도 상승과 6가지 에세이 유형(서사·논증·추론·문제분석·공감·재창작)으로 자기 생각을 글로 표현하는 심화 라이팅 단계
+
+## 찾아오는 길
+- 매여울초등학교 도보 5분 거리, 매탄힐스테이트 서문 좌측 제1상가 302호
+- 지도: https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EA%B6%8C%EA%B4%91%EB%A1%9C260%EB%B2%88%EA%B8%B8%2036%20%EB%A7%A4%ED%83%84%ED%9E%90%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%EC%A0%9C1%EC%83%81%EA%B0%80
+
+## 학부모 소통 방식
+- 데일리 리포트
+- 월간 성장 리포트
+- 카카오톡 피드백: 유치부 주 1회, 초등부 월 1~2회
+
+## 페이지
+- [홈](https://riyoung2-oss.github.io/reengki-homepage/index.html): 학원 소개 요약과 핵심 정보
+- [프로그램·커리큘럼](https://riyoung2-oss.github.io/reengki-homepage/programs.html): 커리큘럼 상세 설명
+- [학원소개](https://riyoung2-oss.github.io/reengki-homepage/about.html): 원장 소개, 교육철학, 학원 시설, 학부모 소통 방식(데일리·월간 리포트, 카카오톡 피드백 예시)
+- [오시는길·문의](https://riyoung2-oss.github.io/reengki-homepage/contact.html): 주소, 전화, 운영시간, SNS 링크
+
+## 연락 채널
+- 카카오톡 채널: http://pf.kakao.com/_xaHkTn
+- 인스타그램: https://www.instagram.com/lisa_reengki
+- 네이버 블로그: https://blog.naver.com/reengki-lisa
+- 네이버 플레이스: https://naver.me/xprApDdW
