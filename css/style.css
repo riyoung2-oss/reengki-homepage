@@ -192,3 +192,46 @@ p,li,td,figcaption,.lead{text-wrap:pretty}
 .site-footer .wrap{font-size:12px}
 .quote-box{font-size:14px}
 }
+.local-block{max-width:760px;margin:0 auto;background:#fff;border:1.5px dashed rgba(46,196,182,.5);border-radius:var(--radius-lg);padding:28px 32px}
+.local-block p{margin:0 0 12px;line-height:1.8;color:var(--color-text-primary)}
+.local-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.local-links a{min-height:44px;display:inline-flex;align-items:center;padding:0 16px;border-radius:9999px;background:var(--color-teal-50);color:var(--color-teal-600);font-weight:700;font-size:14px;text-decoration:none;transition:opacity .18s ease}
+.local-links a:hover{opacity:.9}
+.review-gallery{grid-template-columns:repeat(3,1fr)}
+.review-item{margin:0;display:flex;flex-direction:column;gap:12px}
+.review-item figcaption{font-size:14px;line-height:1.7;color:var(--color-text-primary);background:#fff;border-radius:var(--radius-md);padding:14px 16px;box-shadow:var(--shadow-sm)}
+.profile-box{margin-top:20px;background:#F7F3EC;border-radius:var(--radius-md);padding:20px 22px}
+.profile-box h3{margin:0;font-size:16px}
+.profile-list{list-style:none;margin:12px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.profile-list li{background:#fff;border:1px solid rgba(46,196,182,.3);border-radius:9999px;padding:6px 14px;font-size:13px;font-weight:700;color:var(--color-teal-600)}
+.about-sub{margin:24px 0 6px;font-size:18px}
+.growth-steps{list-style:none;padding:0;margin:0}
+.growth-pending{max-width:760px;margin:0 auto;text-align:center;border-style:dashed}
+.growth-quote{max-width:760px;margin:0 auto;text-align:center;font-size:18px}
+@media (max-width:880px){.review-gallery{grid-template-columns:1fr}.review-item img{max-width:360px;margin:0 auto}.local-block{padding:22px 20px}}
+@media (max-width:600px){.main-nav{flex-wrap:nowrap;gap:0}.main-nav a{padding:6px 5px;font-size:12px;white-space:nowrap;letter-spacing:-.02em}}
+@media (max-width:350px){.main-nav a{padding:6px 3px;font-size:11px}}
+.nelt-compare{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;max-width:900px;margin:0 auto}
+.nelt-card{margin:0;background:#fff;border-radius:var(--radius-lg);box-shadow:var(--shadow-sm);padding:16px;display:flex;flex-direction:column;gap:12px;align-items:flex-start}
+.nelt-card img{width:100%;height:auto;border-radius:var(--radius-md);border:1px solid rgba(46,196,182,.2)}
+.nelt-tag{font-size:13px;font-weight:900;padding:6px 14px;border-radius:9999px;background:var(--color-teal-50);color:var(--color-teal-600)}
+.nelt-tag.after{background:#FFE8F0;color:#C23A6B}
+.nelt-highlights{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;max-width:900px;margin:28px auto 0}
+.nelt-highlights h3{margin:0;font-size:15px;color:var(--color-text-secondary)}
+.nelt-big{font-size:22px;font-weight:900;margin:6px 0 8px;color:var(--color-text-primary)}
+.nelt-big em{font-style:normal;color:var(--color-secondary)}
+.nelt-table{max-width:900px;margin:28px auto 12px}
+.nelt-table caption{caption-side:top;text-align:left;font-weight:700;padding:0 0 10px}
+.nelt-table thead th{background:var(--color-teal-50)}
+@media (max-width:880px){.nelt-compare,.nelt-highlights{grid-template-columns:1fr}.nelt-card img{max-width:420px;margin:0 auto}}
+@media (min-width:601px) and (max-width:1000px){.header-inner{flex-wrap:nowrap;gap:12px}.header-inner .main-nav{flex:1 1 auto;min-width:0;justify-content:flex-end;gap:2px}.main-nav a{padding:8px 9px;font-size:13.5px;white-space:nowrap}.header-sns{gap:6px;flex:0 0 auto}.header-sns a{width:32px;height:32px}.logo img{height:30px}}
+.award-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;max-width:900px;margin:0 auto;align-items:start}
+.award-grid figcaption{font-size:14px;line-height:1.7;color:var(--color-text-primary)}
+@media (max-width:880px){.award-grid{grid-template-columns:1fr}.award-grid img{max-width:420px;margin:0 auto}}
+.nelt-student{margin-top:36px}
+.nelt-student+.nelt-student{margin-top:56px;padding-top:40px;border-top:1.5px dashed rgba(46,196,182,.4)}
+.nelt-student-title{max-width:900px;margin:0 auto 16px;font-size:20px;font-weight:900;color:var(--color-primary);display:flex;align-items:baseline;gap:10px}
+.nelt-student-title small{font-size:14px;color:var(--color-text-secondary);font-weight:700}
+.nelt-highlights .card .nelt-big{font-size:22px;line-height:1.35;font-weight:900;margin:6px 0 8px;color:var(--color-text-primary)}
+.nelt-highlights .card h3{font-size:14px}
+@media (max-width:600px){.nelt-highlights .card .nelt-big{font-size:20px}}

@@ -44,4 +44,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://riyoung2-oss.github.io/reengki-homepage/sitemap.xml
+Sitemap: https://reengkienglish.co.kr/sitemap.xml
